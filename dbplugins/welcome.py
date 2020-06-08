@@ -15,7 +15,7 @@ async def _(event):
     cws = get_current_welcome_settings(event.chat_id)
     if cws:
         # logger.info(event.stringify())
-        """user_added=False,
+        """user_added=True,
         user_joined=True,
         user_left=False,
         user_kicked=False,"""

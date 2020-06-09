@@ -7,7 +7,7 @@ Remove All Downloads: .ariaRM
 Resume All Downloads: .ariaRES
 Pause All Downloads: .ariaP"""
 
-# By:- @Zero_cool7870
+# By:- @Three_Cube_TeKnoways
 
 
 import aria2p

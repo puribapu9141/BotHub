@@ -5,7 +5,7 @@ cmds: Magnet link : .magnet magnetLink
 	  Show Downloads: .show
 	  Remove All Downloads: .ariaRM
 	  
-By:- @Zero_cool7870	   
+By:- @Three_Cube_TeKnoways	   
 """
 
 import aria2p

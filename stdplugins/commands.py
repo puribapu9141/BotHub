@@ -175,7 +175,7 @@ async def _(event):
 .url
 .fsave
 .ftrim
-.fgdrive
+.cargdrive
 .figlet
 .nfc
 .filext
